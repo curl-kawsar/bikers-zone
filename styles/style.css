@@ -1,0 +1,68 @@
+body{
+    font-family: 'Arima', cursive;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* For margins */
+.mx-6 {
+    margin-left: 4rem !important; /* Adjust as needed */
+    margin-right: 4rem !important; /* Adjust as needed */
+}
+
+.my-6 {
+    margin-top: 4rem !important; /* Adjust as needed */
+    margin-bottom: 4rem !important; /* Adjust as needed */
+}
+
+.mt-6 {
+    margin-top: 4rem !important; /* Adjust as needed */
+}
+
+.mt-7 {
+    margin-top: 6rem !important; /* Adjust as needed */
+}
+
+.mb-6 {
+    margin-bottom: 4rem !important; /* Adjust as needed */
+}
+
+.ml-6 {
+    margin-left: 4rem !important; /* Adjust as needed */
+}
+
+.mr-6 {
+    margin-right: 4rem !important; /* Adjust as needed */
+}
+
+/* For padding */
+.px-6 {
+    padding-left: 4rem !important; /* Adjust as needed */
+    padding-right: 4rem !important; /* Adjust as needed */
+}
+
+.py-6 {
+    padding-top: 4rem !important; /* Adjust as needed */
+    padding-bottom: 4rem !important; /* Adjust as needed */
+}
+
+.pt-6 {
+    padding-top: 4rem !important; /* Adjust as needed */
+}
+
+.pb-6 {
+    padding-bottom: 4rem !important; /* Adjust as needed */
+}
+
+.pl-6 {
+    padding-left: 4rem !important; /* Adjust as needed */
+}
+
+.pr-6 {
+    padding-right: 4rem !important; /* Adjust as needed */
+}
+
+.custom-rounded {
+    border-radius: 20px; /* Adjust as needed */
+}
